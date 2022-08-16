@@ -1,0 +1,22 @@
+body {
+  --mainColor: #0055ee;
+  --mainBackgroundColor: #f2f0f0;
+  --mainForegroundColor: #1b2733;
+  --submenuColor: #ffffff;
+  --inputColor: #ffffff;
+  --inputPlaceholderColor: #1b2733;
+  --menuAndHeaderBackgroundColor: #ffffff;
+  --menuForegroundColor: #1b2733;
+  --menuBackgroundColor: #ffffff;
+  --whiteColor: #ffffff;
+  --mainHoverColor: #0481bf;
+  --dangerBackgroundColor: #FF674C;
+  font-family: sans-serif;
+}
+#custom-css .icon-logo {
+  background-image: url('../../static/images/logo.svg');
+  background-size: contain;
+  background-position: center center;
+  width: 50px;
+  height: 30px;
+}

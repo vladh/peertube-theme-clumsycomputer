@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-494.97473,-494.97473,-494.97473,494.97473,747.48737,747.48737)"
+       spreadMethod="pad"
+       id="linearGradient30">
+      <stop
+         style="stop-opacity:1;stop-color:#0ff1ce"
+         offset="0"
+         id="stop26" />
+      <stop
+         style="stop-opacity:1;stop-color:#aa00aa"
+         offset="1"
+         id="stop28" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.77025007"
+     inkscape:cx="858.16286"
+     inkscape:cy="667.96489"
+     inkscape:window-width="2560"
+     inkscape:window-height="1409"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page8"
+       width="1000"
+       height="1000" />
+  </sodipodi:namedview>
+  <g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1333.3333)">
+    <g
+       id="g14"
+       transform="translate(-124.99999,124.99999)">
+      <g
+         id="g16">
+        <g
+           id="g22">
+          <g
+             id="g24">
+            <path
+               d="M 150,500 C 150,306.7 306.7,150 500,150 v 0 c 193.3,0 350,156.7 350,350 v 0 c 0,193.299 -156.7,350 -350,350 v 0 C 306.7,850 150,693.299 150,500"
+               style="fill:url(#linearGradient30);stroke:none"
+               id="path32" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

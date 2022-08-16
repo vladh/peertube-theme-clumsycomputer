@@ -1,1 +1,1 @@
-# PeerTube theme Quickstart
+# clumsy computer PeerTube Theme
